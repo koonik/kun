@@ -129,7 +129,7 @@ rpsls("paper")
 rpsls("lizard")
 rpsls("scissors")
 rpsls("bazinga")
-
+rpsls("bainga")
 # always remember to check your completed program against the grading rubric
 
 
